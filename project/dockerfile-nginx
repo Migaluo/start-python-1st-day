@@ -1,0 +1,3 @@
+FROM alpine
+MAINTANINER ljh
+RUN ["/bin/bash", "-c", "echo hello"]
